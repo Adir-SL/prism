@@ -7,3 +7,10 @@ The files `langs.js` and `langs.css` include support for the following languages
 3. `JavaScript` (including `React`)
 4. `JSON`
 5. `Python`
+
+# Usage
+First, link to these 2 files like so:
+```
+<link href="https://adir-sl.github.io/prism/langs.css" rel="stylesheet" />
+<script src="https://adir-sl.github.io/prism/langs.js" />
+```
