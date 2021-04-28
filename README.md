@@ -14,3 +14,5 @@ First, link to these 2 files like so:
 <link href="https://adir-sl.github.io/prism/langs.css" rel="stylesheet" />
 <script src="https://adir-sl.github.io/prism/langs.js" />
 ```
+
+Second, put the code you want to highlight inside a `code` tag that is inside a `pre` tag, this `pre` tag should have a class of `language-` and the desired language, for example `language-python`.
